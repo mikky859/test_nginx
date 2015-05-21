@@ -1,0 +1,76 @@
+2015/05/19 08:29:43 [notice] 4428#4468: signal process started
+2015/05/19 08:30:04 [error] 4624#4504: *1 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/"
+2015/05/19 08:30:14 [error] 4624#4504: *1 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:30:15 [error] 4624#4504: *1 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:30:42 [notice] 1676#4988: signal process started
+2015/05/19 08:30:46 [error] 2812#3096: *2 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:30:47 [error] 2812#3096: *2 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:31:48 [notice] 2208#2212: signal process started
+2015/05/19 08:31:51 [error] 2220#2252: *4 CreateFile() "D:\test_nginx/htmlsnapshots" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:31:52 [error] 2220#2252: *4 CreateFile() "D:\test_nginx/htmlsnapshots" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:31:52 [error] 2220#2252: *4 CreateFile() "D:\test_nginx/htmlsnapshots" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:31:53 [error] 2220#2252: *4 CreateFile() "D:\test_nginx/htmlsnapshots" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:31:53 [error] 2220#2252: *4 CreateFile() "D:\test_nginx/htmlsnapshots" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:31:53 [error] 2220#2252: *4 CreateFile() "D:\test_nginx/htmlsnapshots" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:31:54 [error] 2220#2252: *4 CreateFile() "D:\test_nginx/htmlsnapshots" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:33:19 [notice] 2416#2092: signal process started
+2015/05/19 08:33:28 [notice] 5360#5384: signal process started
+2015/05/19 08:33:35 [error] 5044#1908: *5 CreateFile() "D:\test_nginx/htmlwww/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:33:36 [error] 5044#1908: *5 CreateFile() "D:\test_nginx/htmlwww/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:33:36 [error] 5044#1908: *5 CreateFile() "D:\test_nginx/htmlwww/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:33:37 [error] 5044#1908: *5 CreateFile() "D:\test_nginx/htmlwww/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:10 [notice] 5392#5332: signal process started
+2015/05/19 08:34:16 [error] 5464#5504: *6 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:16 [error] 5464#5504: *6 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:17 [error] 5464#5504: *6 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:30 [notice] 2956#2720: signal process started
+2015/05/19 08:34:36 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:36 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:37 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:37 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:34:38 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:38 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:34:38 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:38 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:34:38 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/www/snapshots" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:34:38 [error] 4104#4204: *7 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/?_escaped_fragment_=/"
+2015/05/19 08:35:03 [notice] 1976#1396: signal process started
+2015/05/19 08:35:15 [notice] 3528#4232: signal process started
+2015/05/19 08:37:36 [notice] 4616#1196: signal process started
+2015/05/19 08:39:28 [notice] 5820#2784: signal process started
+2015/05/19 08:39:37 [error] 3756#5652: *14 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:39:52 [error] 3756#5652: *15 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET //?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:39:57 [error] 3756#5652: *16 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:40:05 [error] 3756#5652: *17 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:40:20 [error] 3756#5652: *18 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:49:59 [notice] 2408#5372: signal process started
+2015/05/19 08:50:15 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:50:33 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:50:39 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:50:39 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:50:39 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:50:39 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:50:39 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:50:46 [error] 4056#5484: *19 no resolver defined to resolve example.dev, client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:52:20 [notice] 4092#1740: signal process started
+2015/05/19 08:53:14 [notice] 2712#5176: signal process started
+2015/05/19 08:53:20 [error] 4368#2628: *23 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:53:20 [error] 4368#2628: *24 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:53:20 [error] 4368#2628: *25 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:53:27 [error] 4368#2628: *26 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /snapshots/?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/19 08:59:46 [notice] 4528#5288: signal process started
+2015/05/19 09:00:55 [notice] 2484#4984: signal process started
+2015/05/19 09:02:59 [notice] 5020#4852: signal process started
+2015/05/21 15:19:21 [notice] 4996#5000: signal process started
+2015/05/21 15:22:49 [notice] 5648#4908: signal process started
+2015/05/21 15:22:53 [error] 4420#5936: *1 CreateFile() "D:\test_nginx/\www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: example.dev, request: "GET /favicon.ico HTTP/1.1", host: "example.dev", referrer: "http://example.dev/"
+2015/05/21 15:26:19 [notice] 2864#6124: signal process started
+2015/05/21 15:26:28 [error] 4220#4136: *4 CreateFile() "D:\test_nginx/\www/snapshots//snapshots//index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/path HTTP/1.1", host: "example.dev"
+2015/05/21 15:26:38 [error] 4220#4136: *4 CreateFile() "D:\test_nginx/\www/snapshots//snapshots//index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/21 15:26:39 [error] 4220#4136: *4 CreateFile() "D:\test_nginx/\www/snapshots//snapshots//index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/path/ HTTP/1.1", host: "example.dev"
+2015/05/21 15:27:49 [notice] 4148#4444: signal process started
+2015/05/21 15:27:54 [error] 5980#604: *5 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/21 15:34:03 [notice] 1856#4468: signal process started
+2015/05/21 15:34:15 [notice] 5976#3680: signal process started
+2015/05/21 15:34:25 [error] 5048#4364: *7 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
+2015/05/21 15:43:22 [error] 5048#4364: *9 rewrite or internal redirection cycle while internally redirecting to "/snapshots/index.html", client: 127.0.0.1, server: example.dev, request: "GET /?_escaped_fragment_=/ HTTP/1.1", host: "example.dev"
